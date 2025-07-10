@@ -44,17 +44,15 @@ This project is focused on predicting earthquakes using real-time seismic data. 
 
 EarthquakePrediction
 
-├── data/                  # Preprocessed datasets
+├──EQPmodel.keras             	# Model 
 
-├── model/                 # Transformer model scripts
+├── EarthquakePrediction.ipynb	# Transformer model scripts
 
-├── streamlit_app.py       # Streamlit UI file
+├── main.py       		# Streamlit UI file
 
-├── utils/                 # Helper functions
+├── README.md              	# Project overview
 
-├── README.md              # Project overview
-
-└── requirements.txt       # Python dependencies
+└── requirements.txt       	# Python dependencies
 
 
 
